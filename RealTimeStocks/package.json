@@ -1,0 +1,15 @@
+{
+  "name": "realtimestocks",
+  "version": "1.0.0",
+  "main": "RealTimeStocks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2"
+  },
+  "description": ""
+}
