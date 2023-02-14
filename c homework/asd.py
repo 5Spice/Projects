@@ -29,7 +29,7 @@ def get_score(card_deck):
         return card_val   
     
 
-    # Get the player's 
+    # Get the player's  
 
     player_val = 0
     
